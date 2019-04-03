@@ -22,3 +22,8 @@ p, li {
 	line-height: 2;
 	letter-spacing: 1px;
 }
+
+a {
+	font-size: 14px;
+	line-height: 2;
+}
